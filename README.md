@@ -5,6 +5,5 @@ This repository contains my solutions to problems from:
 Languages Used:
 - Python
 - Java
-- C++
-
+- c
 I regularly update this repository.
